@@ -1,0 +1,1 @@
+# wp-show-hide-collapse
